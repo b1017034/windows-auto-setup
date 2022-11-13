@@ -1,5 +1,6 @@
 winget install Microsoft.WindowsTerminal --accept-source-agreements --accept-package-agreements
 winget install JetBrains.Toolbox
+winget install Nvidia.GeForceExperience
 winget install Microsoft.VisualStudio.2022.Community
 winget install SlackTechnologies.Slack
 winget install Discord.Discord
