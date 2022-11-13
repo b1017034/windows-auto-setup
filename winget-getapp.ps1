@@ -12,3 +12,4 @@ winget install NZXT.CAM --accept-source-agreements --accept-package-agreements
 winget install Logitech.GHUB --accept-source-agreements --accept-package-agreements
 winget install Valve.Steam --accept-source-agreements --accept-package-agreements 
 winget install File-New-Project.EarTrumpet --accept-source-agreements --accept-package-agreements
+winget install 9PFZ8RFZG5X4 --accept-source-agreements --accept-package-agreements #Astro Command Center
