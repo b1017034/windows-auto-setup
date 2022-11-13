@@ -1,14 +1,14 @@
 winget install Microsoft.WindowsTerminal --accept-source-agreements --accept-package-agreements
-winget install JetBrains.Toolbox
-winget install Nvidia.GeForceExperience
-winget install SlackTechnologies.Slack
-winget install Discord.Discord
-winget install Git.Git
-winget install Google.Chrome
-winget install Mozilla.Firefox
-winget install Docker.DockerDesktop
-winget install TeamViewer.TeamViewer
-winget install NZXT.CAM
-winget install Logitech.GHUB
-winget install Valve.Steam
-winget install File-New-Project.EarTrumpet
+winget install JetBrains.Toolbox --accept-source-agreements --accept-package-agreements
+winget install Nvidia.GeForceExperience --accept-source-agreements --accept-package-agreements
+winget install SlackTechnologies.Slack --accept-source-agreements --accept-package-agreements
+winget install Discord.Discord --accept-source-agreements --accept-package-agreements
+winget install Git.Git --accept-source-agreements --accept-package-agreements
+winget install Google.Chrome --accept-source-agreements --accept-package-agreements
+winget install Mozilla.Firefox --accept-source-agreements --accept-package-agreements
+winget install Docker.DockerDesktop --accept-source-agreements --accept-package-agreements
+winget install TeamViewer.TeamViewer --accept-source-agreements --accept-package-agreements
+winget install NZXT.CAM --accept-source-agreements --accept-package-agreements
+winget install Logitech.GHUB --accept-source-agreements --accept-package-agreements
+winget install Valve.Steam --accept-source-agreements --accept-package-agreements 
+winget install File-New-Project.EarTrumpet --accept-source-agreements --accept-package-agreements
